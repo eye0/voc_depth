@@ -1,0 +1,90 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0603.jpg"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "NYU Depth"
+Objects with ground truth : 13 { "PASchair" "PASfloor" "PASgarbage bin" "PAStable" "PASwall" "PASwall" "PASwall" "PASwall" "PASmonitor" "PASmonitor" "PASwindow" "PASsofa" "PASlamp" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASchair")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASchair" : "PASchair"
+Bounding box for object 1 "PASchair" (Xmin, Ymin) - (Xmax, Ymax) : (477, 192) - (527, 283)
+
+# Details for object 2 ("PASfloor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASfloor" : "PASfloor"
+Bounding box for object 2 "PASfloor" (Xmin, Ymin) - (Xmax, Ymax) : (374, 277) - (633, 474)
+
+# Details for object 3 ("PASgarbage bin")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASgarbage bin" : "PASgarbage bin"
+Bounding box for object 3 "PASgarbage bin" (Xmin, Ymin) - (Xmax, Ymax) : (417, 252) - (446, 292)
+
+# Details for object 4 ("PAStable")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PAStable" : "PAStable"
+Bounding box for object 4 "PAStable" (Xmin, Ymin) - (Xmax, Ymax) : (512, 184) - (633, 268)
+
+# Details for object 5 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASwall" : "PASwall"
+Bounding box for object 5 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (10, 7) - (287, 475)
+
+# Details for object 6 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASwall" : "PASwall"
+Bounding box for object 6 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (303, 123) - (384, 349)
+
+# Details for object 7 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PASwall" : "PASwall"
+Bounding box for object 7 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (360, 10) - (459, 273)
+
+# Details for object 8 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 8 "PASwall" : "PASwall"
+Bounding box for object 8 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (462, 8) - (565, 165)
+
+# Details for object 9 ("PASmonitor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 9 "PASmonitor" : "PASmonitor"
+Bounding box for object 9 "PASmonitor" (Xmin, Ymin) - (Xmax, Ymax) : (461, 168) - (512, 204)
+
+# Details for object 10 ("PASmonitor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 10 "PASmonitor" : "PASmonitor"
+Bounding box for object 10 "PASmonitor" (Xmin, Ymin) - (Xmax, Ymax) : (510, 170) - (563, 203)
+
+# Details for object 11 ("PASwindow")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 11 "PASwindow" : "PASwindow"
+Bounding box for object 11 "PASwindow" (Xmin, Ymin) - (Xmax, Ymax) : (572, 9) - (633, 134)
+
+# Details for object 12 ("PASsofa")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 12 "PASsofa" : "PASsofa"
+Bounding box for object 12 "PASsofa" (Xmin, Ymin) - (Xmax, Ymax) : (563, 223) - (633, 359)
+
+# Details for object 13 ("PASlamp")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 13 "PASlamp" : "PASlamp"
+Bounding box for object 13 "PASlamp" (Xmin, Ymin) - (Xmax, Ymax) : (582, 155) - (631, 191)
+

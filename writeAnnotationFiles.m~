@@ -1,0 +1,31 @@
+function writeAnnotationFiles(c, j, im, objList, bboxes)
+
+ann = fopen(fullfile(c.data, 'NYU_PASCAL', 'VOCdevkit', 'VOC2012', 'Annotations', strcat(int2str(j), '.txt')), 'w');
+
+if isempty(objList)
+    fwrite(ann, sprintf('Image filename : "%s"', fullfile('VOC2012', 'Images', strcat(int2str(j), '.jpg'))));
+    fclose(ann);
+else
+    fwrite(ann, '# PASCAL Annotation Version 1.00\n\n');
+    
+    
+    fwrite(ann, sprintf('Image filename : "%s\n"', fullfile('VOC2012', 'Images', strcat(int2str(j), '.jpg'))));
+    
+    
+    fwrite(ann, sprintf('Image size (X x Y x C) : %d x %d x %d\n', size(im, 2), size(im, 1), size(im, 3)));
+    
+    
+    fwrite(ann, 'Database : "NYU Depth"\n');
+    
+    
+    count = max(max(la));
+    fwrite(ann, sprintf('Objects with ground truth : %d {%s }', count, repmat([' "PAS' cls '"'], 1)))
+    
+    
+    fwrite(ann, '# Note that there might be other objects in the image\n# for which ground truth data has not been provided.\n\n# Top left pixel co-ordinates : (0, 0))');
+    
+    
+    for k = 1:count
+        fwrite(ann, '# Details for object %d ("%s") # Center point -- not available in other PASCAL databases -- refers # to person head center'
+    end
+end

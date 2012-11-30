@@ -1,0 +1,90 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0744.jpg"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "NYU Depth"
+Objects with ground truth : 13 { "PASbottle" "PASbottle" "PAScabinet" "PASfloor" "PASwall" "PASbox" "PASbasket" "PASblinds" "PASshower curtain" "PAStoilet" "PAStowel" "PAStowel" "PASbathtub" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASbottle")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASbottle" : "PASbottle"
+Bounding box for object 1 "PASbottle" (Xmin, Ymin) - (Xmax, Ymax) : (601, 333) - (626, 392)
+
+# Details for object 2 ("PASbottle")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASbottle" : "PASbottle"
+Bounding box for object 2 "PASbottle" (Xmin, Ymin) - (Xmax, Ymax) : (298, 214) - (331, 265)
+
+# Details for object 3 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PAScabinet" : "PAScabinet"
+Bounding box for object 3 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (9, 294) - (195, 473)
+
+# Details for object 4 ("PASfloor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASfloor" : "PASfloor"
+Bounding box for object 4 "PASfloor" (Xmin, Ymin) - (Xmax, Ymax) : (197, 395) - (546, 475)
+
+# Details for object 5 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASwall" : "PASwall"
+Bounding box for object 5 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (65, 9) - (632, 362)
+
+# Details for object 6 ("PASbox")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASbox" : "PASbox"
+Bounding box for object 6 "PASbox" (Xmin, Ymin) - (Xmax, Ymax) : (162, 244) - (217, 283)
+
+# Details for object 7 ("PASbasket")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PASbasket" : "PASbasket"
+Bounding box for object 7 "PASbasket" (Xmin, Ymin) - (Xmax, Ymax) : (9, 220) - (63, 309)
+
+# Details for object 8 ("PASblinds")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 8 "PASblinds" : "PASblinds"
+Bounding box for object 8 "PASblinds" (Xmin, Ymin) - (Xmax, Ymax) : (10, 7) - (186, 213)
+
+# Details for object 9 ("PASshower curtain")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 9 "PASshower curtain" : "PASshower curtain"
+Bounding box for object 9 "PASshower curtain" (Xmin, Ymin) - (Xmax, Ymax) : (333, 8) - (553, 429)
+
+# Details for object 10 ("PAStoilet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 10 "PAStoilet" : "PAStoilet"
+Bounding box for object 10 "PAStoilet" (Xmin, Ymin) - (Xmax, Ymax) : (125, 236) - (401, 475)
+
+# Details for object 11 ("PAStowel")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 11 "PAStowel" : "PAStowel"
+Bounding box for object 11 "PAStowel" (Xmin, Ymin) - (Xmax, Ymax) : (11, 305) - (59, 354)
+
+# Details for object 12 ("PAStowel")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 12 "PAStowel" : "PAStowel"
+Bounding box for object 12 "PAStowel" (Xmin, Ymin) - (Xmax, Ymax) : (483, 355) - (589, 435)
+
+# Details for object 13 ("PASbathtub")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 13 "PASbathtub" : "PASbathtub"
+Bounding box for object 13 "PASbathtub" (Xmin, Ymin) - (Xmax, Ymax) : (302, 289) - (634, 475)
+

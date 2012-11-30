@@ -1,0 +1,54 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0065.jpg"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "NYU Depth"
+Objects with ground truth : 7 { "PASwall" "PASclothes" "PASclothes" "PASbed" "PASbed" "PASbed" "PASbed" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASwall" : "PASwall"
+Bounding box for object 1 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (8, 8) - (633, 470)
+
+# Details for object 2 ("PASclothes")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASclothes" : "PASclothes"
+Bounding box for object 2 "PASclothes" (Xmin, Ymin) - (Xmax, Ymax) : (554, 421) - (627, 476)
+
+# Details for object 3 ("PASclothes")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASclothes" : "PASclothes"
+Bounding box for object 3 "PASclothes" (Xmin, Ymin) - (Xmax, Ymax) : (371, 306) - (609, 416)
+
+# Details for object 4 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASbed" : "PASbed"
+Bounding box for object 4 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (551, 312) - (634, 425)
+
+# Details for object 5 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASbed" : "PASbed"
+Bounding box for object 5 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (37, 442) - (181, 476)
+
+# Details for object 6 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASbed" : "PASbed"
+Bounding box for object 6 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (585, 377) - (634, 475)
+
+# Details for object 7 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PASbed" : "PASbed"
+Bounding box for object 7 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (172, 356) - (593, 475)
+

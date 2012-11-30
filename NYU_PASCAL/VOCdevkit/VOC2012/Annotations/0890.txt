@@ -1,0 +1,222 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0890.jpg"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "NYU Depth"
+Objects with ground truth : 35 { "PASbottle" "PAScabinet" "PAScabinet" "PAScabinet" "PAScabinet" "PASchair" "PASchair" "PAScounter" "PAScounter" "PAScounter" "PASfloor" "PASpaper" "PASpaper" "PASpaper" "PASunknown" "PASunknown" "PASwall" "PASwall" "PASwall" "PASwall" "PASwall" "PASwall" "PASwall" "PASbox" "PASdoor" "PASdoor" "PASdoor" "PASbag" "PASbag" "PASlight" "PASjar" "PASplant" "PASoven" "PASoven" "PASplant pot" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASbottle")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASbottle" : "PASbottle"
+Bounding box for object 1 "PASbottle" (Xmin, Ymin) - (Xmax, Ymax) : (597, 167) - (620, 186)
+
+# Details for object 2 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PAScabinet" : "PAScabinet"
+Bounding box for object 2 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (470, 187) - (628, 290)
+
+# Details for object 3 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PAScabinet" : "PAScabinet"
+Bounding box for object 3 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (420, 8) - (633, 125)
+
+# Details for object 4 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PAScabinet" : "PAScabinet"
+Bounding box for object 4 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (312, 204) - (486, 420)
+
+# Details for object 5 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PAScabinet" : "PAScabinet"
+Bounding box for object 5 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (493, 337) - (633, 474)
+
+# Details for object 6 ("PASchair")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASchair" : "PASchair"
+Bounding box for object 6 "PASchair" (Xmin, Ymin) - (Xmax, Ymax) : (34, 282) - (144, 476)
+
+# Details for object 7 ("PASchair")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PASchair" : "PASchair"
+Bounding box for object 7 "PASchair" (Xmin, Ymin) - (Xmax, Ymax) : (11, 256) - (81, 420)
+
+# Details for object 8 ("PAScounter")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 8 "PAScounter" : "PAScounter"
+Bounding box for object 8 "PAScounter" (Xmin, Ymin) - (Xmax, Ymax) : (505, 270) - (632, 358)
+
+# Details for object 9 ("PAScounter")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 9 "PAScounter" : "PAScounter"
+Bounding box for object 9 "PAScounter" (Xmin, Ymin) - (Xmax, Ymax) : (27, 187) - (468, 249)
+
+# Details for object 10 ("PAScounter")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 10 "PAScounter" : "PAScounter"
+Bounding box for object 10 "PAScounter" (Xmin, Ymin) - (Xmax, Ymax) : (483, 174) - (593, 189)
+
+# Details for object 11 ("PASfloor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 11 "PASfloor" : "PASfloor"
+Bounding box for object 11 "PASfloor" (Xmin, Ymin) - (Xmax, Ymax) : (10, 290) - (537, 476)
+
+# Details for object 12 ("PASpaper")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 12 "PASpaper" : "PASpaper"
+Bounding box for object 12 "PASpaper" (Xmin, Ymin) - (Xmax, Ymax) : (89, 132) - (117, 170)
+
+# Details for object 13 ("PASpaper")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 13 "PASpaper" : "PASpaper"
+Bounding box for object 13 "PASpaper" (Xmin, Ymin) - (Xmax, Ymax) : (12, 261) - (71, 294)
+
+# Details for object 14 ("PASpaper")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 14 "PASpaper" : "PASpaper"
+Bounding box for object 14 "PASpaper" (Xmin, Ymin) - (Xmax, Ymax) : (41, 197) - (325, 257)
+
+# Details for object 15 ("PASunknown")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 15 "PASunknown" : "PASunknown"
+Bounding box for object 15 "PASunknown" (Xmin, Ymin) - (Xmax, Ymax) : (481, 145) - (505, 179)
+
+# Details for object 16 ("PASunknown")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 16 "PASunknown" : "PASunknown"
+Bounding box for object 16 "PASunknown" (Xmin, Ymin) - (Xmax, Ymax) : (567, 251) - (632, 332)
+
+# Details for object 17 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 17 "PASwall" : "PASwall"
+Bounding box for object 17 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (162, 10) - (203, 197)
+
+# Details for object 18 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 18 "PASwall" : "PASwall"
+Bounding box for object 18 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (89, 240) - (313, 460)
+
+# Details for object 19 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 19 "PASwall" : "PASwall"
+Bounding box for object 19 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (111, 11) - (161, 202)
+
+# Details for object 20 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 20 "PASwall" : "PASwall"
+Bounding box for object 20 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (197, 9) - (337, 114)
+
+# Details for object 21 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 21 "PASwall" : "PASwall"
+Bounding box for object 21 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (425, 125) - (634, 179)
+
+# Details for object 22 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 22 "PASwall" : "PASwall"
+Bounding box for object 22 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (40, 13) - (75, 203)
+
+# Details for object 23 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 23 "PASwall" : "PASwall"
+Bounding box for object 23 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (343, 15) - (426, 132)
+
+# Details for object 24 ("PASbox")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 24 "PASbox" : "PASbox"
+Bounding box for object 24 "PASbox" (Xmin, Ymin) - (Xmax, Ymax) : (561, 163) - (586, 180)
+
+# Details for object 25 ("PASdoor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 25 "PASdoor" : "PASdoor"
+Bounding box for object 25 "PASdoor" (Xmin, Ymin) - (Xmax, Ymax) : (360, 26) - (426, 186)
+
+# Details for object 26 ("PASdoor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 26 "PASdoor" : "PASdoor"
+Bounding box for object 26 "PASdoor" (Xmin, Ymin) - (Xmax, Ymax) : (55, 10) - (139, 201)
+
+# Details for object 27 ("PASdoor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 27 "PASdoor" : "PASdoor"
+Bounding box for object 27 "PASdoor" (Xmin, Ymin) - (Xmax, Ymax) : (201, 20) - (250, 123)
+
+# Details for object 28 ("PASbag")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 28 "PASbag" : "PASbag"
+Bounding box for object 28 "PASbag" (Xmin, Ymin) - (Xmax, Ymax) : (447, 154) - (488, 180)
+
+# Details for object 29 ("PASbag")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 29 "PASbag" : "PASbag"
+Bounding box for object 29 "PASbag" (Xmin, Ymin) - (Xmax, Ymax) : (141, 110) - (154, 135)
+
+# Details for object 30 ("PASlight")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 30 "PASlight" : "PASlight"
+Bounding box for object 30 "PASlight" (Xmin, Ymin) - (Xmax, Ymax) : (332, 9) - (346, 39)
+
+# Details for object 31 ("PASjar")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 31 "PASjar" : "PASjar"
+Bounding box for object 31 "PASjar" (Xmin, Ymin) - (Xmax, Ymax) : (613, 204) - (633, 299)
+
+# Details for object 32 ("PASplant")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 32 "PASplant" : "PASplant"
+Bounding box for object 32 "PASplant" (Xmin, Ymin) - (Xmax, Ymax) : (178, 97) - (369, 200)
+
+# Details for object 33 ("PASoven")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 33 "PASoven" : "PASoven"
+Bounding box for object 33 "PASoven" (Xmin, Ymin) - (Xmax, Ymax) : (10, 75) - (54, 181)
+
+# Details for object 34 ("PASoven")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 34 "PASoven" : "PASoven"
+Bounding box for object 34 "PASoven" (Xmin, Ymin) - (Xmax, Ymax) : (11, 184) - (59, 259)
+
+# Details for object 35 ("PASplant pot")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 35 "PASplant pot" : "PASplant pot"
+Bounding box for object 35 "PASplant pot" (Xmin, Ymin) - (Xmax, Ymax) : (328, 167) - (351, 197)
+

@@ -1,0 +1,90 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/1367.jpg"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "NYU Depth"
+Objects with ground truth : 13 { "PASfloor" "PAStable" "PASwall" "PASbox" "PASpicture" "PASpicture" "PAScandlestick" "PAScandlestick" "PAScandlestick" "PAScandlestick" "PAScandlestick" "PASsculpture" "PASsculpture" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASfloor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASfloor" : "PASfloor"
+Bounding box for object 1 "PASfloor" (Xmin, Ymin) - (Xmax, Ymax) : (63, 381) - (631, 476)
+
+# Details for object 2 ("PAStable")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PAStable" : "PAStable"
+Bounding box for object 2 "PAStable" (Xmin, Ymin) - (Xmax, Ymax) : (37, 233) - (305, 476)
+
+# Details for object 3 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASwall" : "PASwall"
+Bounding box for object 3 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (8, 8) - (633, 476)
+
+# Details for object 4 ("PASbox")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASbox" : "PASbox"
+Bounding box for object 4 "PASbox" (Xmin, Ymin) - (Xmax, Ymax) : (170, 183) - (214, 234)
+
+# Details for object 5 ("PASpicture")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASpicture" : "PASpicture"
+Bounding box for object 5 "PASpicture" (Xmin, Ymin) - (Xmax, Ymax) : (521, 9) - (634, 125)
+
+# Details for object 6 ("PASpicture")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASpicture" : "PASpicture"
+Bounding box for object 6 "PASpicture" (Xmin, Ymin) - (Xmax, Ymax) : (8, 7) - (26, 34)
+
+# Details for object 7 ("PAScandlestick")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PAScandlestick" : "PAScandlestick"
+Bounding box for object 7 "PAScandlestick" (Xmin, Ymin) - (Xmax, Ymax) : (117, 250) - (164, 305)
+
+# Details for object 8 ("PAScandlestick")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 8 "PAScandlestick" : "PAScandlestick"
+Bounding box for object 8 "PAScandlestick" (Xmin, Ymin) - (Xmax, Ymax) : (96, 236) - (127, 288)
+
+# Details for object 9 ("PAScandlestick")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 9 "PAScandlestick" : "PAScandlestick"
+Bounding box for object 9 "PAScandlestick" (Xmin, Ymin) - (Xmax, Ymax) : (244, 201) - (261, 262)
+
+# Details for object 10 ("PAScandlestick")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 10 "PAScandlestick" : "PAScandlestick"
+Bounding box for object 10 "PAScandlestick" (Xmin, Ymin) - (Xmax, Ymax) : (202, 200) - (220, 262)
+
+# Details for object 11 ("PAScandlestick")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 11 "PAScandlestick" : "PAScandlestick"
+Bounding box for object 11 "PAScandlestick" (Xmin, Ymin) - (Xmax, Ymax) : (222, 204) - (238, 266)
+
+# Details for object 12 ("PASsculpture")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 12 "PASsculpture" : "PASsculpture"
+Bounding box for object 12 "PASsculpture" (Xmin, Ymin) - (Xmax, Ymax) : (145, 232) - (167, 275)
+
+# Details for object 13 ("PASsculpture")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 13 "PASsculpture" : "PASsculpture"
+Bounding box for object 13 "PASsculpture" (Xmin, Ymin) - (Xmax, Ymax) : (184, 225) - (204, 270)
+

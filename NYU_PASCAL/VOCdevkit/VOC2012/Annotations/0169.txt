@@ -1,0 +1,54 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0169.jpg"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "NYU Depth"
+Objects with ground truth : 7 { "PAScabinet" "PASwall" "PASwall" "PASdoor knob" "PASdoor" "PASspeaker" "PAStelevision" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PAScabinet" : "PAScabinet"
+Bounding box for object 1 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (116, 301) - (464, 475)
+
+# Details for object 2 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASwall" : "PASwall"
+Bounding box for object 2 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (31, 7) - (606, 438)
+
+# Details for object 3 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASwall" : "PASwall"
+Bounding box for object 3 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (570, 8) - (631, 471)
+
+# Details for object 4 ("PASdoor knob")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASdoor knob" : "PASdoor knob"
+Bounding box for object 4 "PASdoor knob" (Xmin, Ymin) - (Xmax, Ymax) : (11, 219) - (21, 244)
+
+# Details for object 5 ("PASdoor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASdoor" : "PASdoor"
+Bounding box for object 5 "PASdoor" (Xmin, Ymin) - (Xmax, Ymax) : (10, 7) - (39, 476)
+
+# Details for object 6 ("PASspeaker")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASspeaker" : "PASspeaker"
+Bounding box for object 6 "PASspeaker" (Xmin, Ymin) - (Xmax, Ymax) : (436, 245) - (459, 323)
+
+# Details for object 7 ("PAStelevision")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PAStelevision" : "PAStelevision"
+Bounding box for object 7 "PAStelevision" (Xmin, Ymin) - (Xmax, Ymax) : (163, 114) - (437, 327)
+
